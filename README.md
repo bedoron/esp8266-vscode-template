@@ -25,6 +25,11 @@ Before cookiecutting you must setup [Tool-chain and RTOS](#tool-chain-and-rtos).
 
 # How to use this repo
 
+1. setup environment: [Tool-chain and RTOS](#tool-chain-and-rtos)
+2. create your project: [Creating A Project](#creating-a-project)
+3. ...hack...
+4. flash the project: [Flashing from WSL2](#flashing-from-wsl2)
+
 **NOTE**: 
 1. *This repo is still work in progress.*
 2. assuming workspace `~/dev` (all operations are done there)
